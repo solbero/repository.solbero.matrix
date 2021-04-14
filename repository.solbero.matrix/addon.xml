@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.solbero.matrix" name="solbero's Kodi add-on repository" version="1.0.0" provider-name="solbero">
-    <requires>
-        <import addon="xbmc.addon" version="12.0.0"/>
-    </requires>
     <extension point="xbmc.addon.repository" name="solbero's Kodi addon repository">
         <info compressed="false">https://raw.githubusercontent.com/solbero/repository.solbero.matrix/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/solbero/repository.solbero.matrix/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/solbero/repository.solbero.matrix/master/</datadir>
-        <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Kodi Matrix addons repackaged by solbero</summary>
         <description>Kodi Matrix addons repackaged by solbero</description>
+        <disclaimer></disclaimer>
         <platform>linux</platform>
 </extension>
 </addon>
