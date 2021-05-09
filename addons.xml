@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.lutris" name="Lutris" version="2.0.1" provider-name="Rob Loach, solbero">
+<addons><addon id="plugin.lutris" name="Lutris" version="2.0.2" provider-name="Rob Loach, solbero">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.routing" version="0.2.3" />
