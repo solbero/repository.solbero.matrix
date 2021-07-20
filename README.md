@@ -6,7 +6,7 @@ Repository for Kodi Matrix add-ons
 
 |Icon|Name|Version|Updated|
 |---|---|---|---|
-|<img src="https://raw.githubusercontent.com/RobLoach/lutris-kodi-addon/master/resources/icon.png" width="48">|[Lutris Kodi Addon](https://github.com/RobLoach/lutris-kodi-addon)|2.0.2|[2021-05-09](https://github.com/solbero/repository.solbero.matrix/raw/master/plugin.lutris/changelog-2.0.2.txt)
+|<img src="https://raw.githubusercontent.com/RobLoach/lutris-kodi-addon/master/resources/icon.png" width="48">|[Lutris Kodi Addon](https://github.com/RobLoach/lutris-kodi-addon)|2.1.0|[2021-07-20](https://github.com/solbero/repository.solbero.matrix/raw/master/plugin.lutris/changelog-2.1.0.txt)
 
 ## Installation
 
