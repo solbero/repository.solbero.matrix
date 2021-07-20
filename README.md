@@ -1,6 +1,6 @@
 # solbero’s Kodi add-on repository
 
-Repository for Kodi Matrix add-ons
+Add-on repository for Kodi Matrix and above
 
 ## Contents
 
