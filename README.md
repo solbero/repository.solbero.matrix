@@ -12,9 +12,9 @@ Add-on repository for Kodi Matrix and above
 
 1. Make sure that Unknown Sources is enabled in Settings → System → Add-ons
 
-2. Download [solbero.repository.matrix-1.0.0.zip](https://github.com/solbero/repository.solbero.matrix/raw/master/repository.solbero.matrix/repository.solbero.matrix-1.0.0.zip)
+2. Download [solbero.repository.matrix.zip](https://github.com/solbero/repository.solbero.matrix/raw/master/repository.solbero.matrix/repository.solbero.matrix.zip)
 
-3. Go to Settings → Add-ons → Install from zip file. Navigate to where you placed the file solbero.repository.matrix-1.0.0.zip and select Install
+3. Go to Settings → Add-ons → Install from zip file. Navigate to where you placed the file solbero.repository.matrix.zip and select Install
 
 ## Authours
 * [Lutris Kodi Addon](https://github.com/RobLoach/lutris-kodi-addon) by [RobLoach](https://github.com/RobLoach)
